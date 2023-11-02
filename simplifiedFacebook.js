@@ -3,7 +3,8 @@ let obj = {
     password: 'javascriptIsCool'
 };
 
-let database = [{
+let database = [
+    {
     username: 'JohnDoe',
     password: 'javascriptIsCool'
     }
